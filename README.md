@@ -52,10 +52,10 @@ The following steps were performed:
 
 ## 🔍 Key Findings
 
-* There is a **strong positive correlation (r = 0.84)** between GDP per capita and life expectancy.
-* Countries with higher income levels tend to have significantly higher life expectancy.
-* The relationship exhibits **diminishing returns**, where gains in life expectancy slow at higher income levels.
-* Lower-income countries show greater variation, suggesting additional factors influence health outcomes.
+- Strong positive correlation (**r = 0.84**) between GDP per capita and life expectancy
+- Higher-income countries generally have longer life expectancy
+- The relationship shows diminishing returns at higher income levels
+- Lower-income countries show greater variation, suggesting other factors also affect health outcomes
 
 ---
 
@@ -114,7 +114,6 @@ life-expectancy-analysis/
 ## 🚀 Future Improvements
 
 * Include additional variables (e.g., healthcare spending, education)
-* Build an interactive dashboard (Looker Studio or Power BI)
 * Perform regression analysis with multiple predictors
 * Analyze trends over time instead of a single year
 
